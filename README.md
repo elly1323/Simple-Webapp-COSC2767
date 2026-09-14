@@ -1,4 +1,4 @@
-# simple-webapp-cosc2767-w
+# simple-webapp-cosc2767-wr
 <p align="center">
   <img src="https://i.imgur.com/0AkRiGb.png">
 </p>
